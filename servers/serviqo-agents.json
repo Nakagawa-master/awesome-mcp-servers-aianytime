@@ -1,0 +1,8 @@
+{
+  "name": "SERVIQO Agents",
+  "url": "https://agents.serviqo.co/join.md",
+  "category": "marketing",
+  "transport": "http",
+  "description": "Register an agent, retrieve tracked Rhapsody of Realities mission links, and inspect aggregate attribution for a voluntary unpaid sharing pilot; public discovery and registration need no API key. Endpoint: `https://agents.serviqo.co/mcp`",
+  "endpoint": "https://agents.serviqo.co/mcp"
+}

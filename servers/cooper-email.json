@@ -1,0 +1,9 @@
+{
+  "name": "Cooper Email",
+  "url": "https://github.com/cooper-email/cooper-email",
+  "category": "productivity",
+  "transport": "http",
+  "description": "Gives each AI agent its own email inbox to send, reply, search and read mail and wait for replies or verification codes; free tier, OAuth or an API key the agent creates with one request. Endpoint: `https://cooperemail.com/mcp` · [Docs](https://cooperemail.com/docs/mcp)",
+  "endpoint": "https://cooperemail.com/mcp",
+  "registry": "com.cooperemail/cooper-email"
+}

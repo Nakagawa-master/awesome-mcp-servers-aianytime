@@ -1,0 +1,8 @@
+{
+  "name": "xmcp",
+  "url": "https://xmcp.dev",
+  "category": "developer-tools",
+  "transport": "http",
+  "description": "Read-only search and page retrieval over the official documentation for the xmcp TypeScript MCP framework, with no account or API key. Endpoint: `https://xmcp.dev/mcp` \u00b7 [Setup](https://xmcp.dev/docs/guides/xmcp-mcp-server) \u00b7 [Source](https://github.com/basementstudio/xmcp/tree/main/apps/website)",
+  "endpoint": "https://xmcp.dev/mcp"
+}

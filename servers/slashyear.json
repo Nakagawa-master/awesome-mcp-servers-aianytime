@@ -1,0 +1,9 @@
+{
+  "name": "SlashYear",
+  "url": "https://github.com/ctrl-maud/slashyear",
+  "category": "knowledge-memory",
+  "transport": "http",
+  "description": "Look up history by year, date and country, plus world leaders, historical prices and No. 1 songs, each line cited to a Wikipedia revision. Read-only, no account or API key. Endpoint: `https://slashyear.com/mcp` · [Website](https://slashyear.com)",
+  "endpoint": "https://slashyear.com/mcp",
+  "registry": "com.slashyear/mcp"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "LifeVerse Product Discovery",
+  "url": "https://github.com/lifeversegu/lifeverse-mcp",
+  "category": "search",
+  "transport": "http",
+  "description": "Discover, search, inspect and recommend 11 public LifeVerse AI products and interactive experiences through four read-only tools. No account or API key. Endpoint: `https://lifeverse.gufreelancer.com/api/mcp` · [Docs](https://lifeverse.gufreelancer.com/mcp) · Registry: `com.gufreelancer.lifeverse/public-catalog`",
+  "endpoint": "https://lifeverse.gufreelancer.com/api/mcp",
+  "registry": "com.gufreelancer.lifeverse/public-catalog"
+}

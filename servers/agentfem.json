@@ -1,0 +1,8 @@
+{
+  "name": "AgentFEM MCP",
+  "url": "https://github.com/haoming-luo/agentfem-mcp",
+  "category": "developer-tools",
+  "transport": "stdio",
+  "description": "Create, validate, run and inspect finite-element projects through seven local tools; requires an installed AgentFEM scientific runtime and a project directory. Adapter: `pip install agentfem-mcp` · [Setup](https://github.com/haoming-luo/agentfem-mcp#bring-it-to-life)",
+  "registry": "io.github.haoming-luo/agentfem"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "MCP Toolbelt",
+  "url": "https://github.com/papacasper/mcp-toolbelt",
+  "category": "developer-tools",
+  "transport": "http",
+  "description": "29 pay-per-call website audit and recon tools over x402/USDC on Base; tools/list is free, calls cost $0.01-$0.25, no API key or account. Endpoint: `https://papacasper.com/mcp`",
+  "endpoint": "https://papacasper.com/mcp"
+}

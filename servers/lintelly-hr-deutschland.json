@@ -1,0 +1,9 @@
+{
+  "name": "Lintelly HR Deutschland",
+  "url": "https://github.com/NicksAdvisory/lintelly-hr-deutschland",
+  "category": "productivity",
+  "transport": "http",
+  "description": "German employment law for small companies: 38 read-only tools for notice periods, employer costs, sick pay, maternity protection and contract clauses, each answer with calculation and official source; no account or API key. Endpoint: `https://hr.lintelly.com/mcp` · Local: `npx -y @lintelly/hr-deutschland`",
+  "endpoint": "https://hr.lintelly.com/mcp",
+  "registry": "com.lintelly/hr-deutschland"
+}

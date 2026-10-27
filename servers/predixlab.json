@@ -1,0 +1,9 @@
+{
+  "name": "PredixLab",
+  "url": "https://predixlab.com/docs/mcp/",
+  "category": "finance",
+  "transport": "http",
+  "description": "Daily US stock signals, a stock screener and options activity over MCP; read-only, API key required. Not investment advice.",
+  "endpoint": "https://api.predixlab.com/mcp/",
+  "registry": "com.predixlab/mcp"
+}

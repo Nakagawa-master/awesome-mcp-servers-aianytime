@@ -1,0 +1,8 @@
+{
+  "name": "StarTap Directory Search",
+  "url": "https://github.com/qeireal/startap-launch-kit#readme",
+  "category": "marketing",
+  "transport": "http",
+  "description": "Read-only search for free startup submission directories by category, account and badge requirements, review wait and Ahrefs Domain Rating; no sign-in or API key. Endpoint: `https://startap.cc/mcp` · [Website](https://startap.cc/)",
+  "endpoint": "https://startap.cc/mcp"
+}

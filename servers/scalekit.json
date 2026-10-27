@@ -1,0 +1,8 @@
+{
+  "name": "Scalekit",
+  "url": "https://github.com/scalekit-inc/scalekit-mcp-server",
+  "category": "developer-tools",
+  "transport": "http",
+  "description": "Set up and manage Scalekit agent integrations (600+ connectors, 35,000+ tools, per-user OAuth) plus environments, organizations, users, roles and scopes. Hosted, OAuth 2.1 sign-in required. \u00b7 [Docs](https://docs.scalekit.com/agentkit/overview/)",
+  "endpoint": "https://mcp.scalekit.com/"
+}

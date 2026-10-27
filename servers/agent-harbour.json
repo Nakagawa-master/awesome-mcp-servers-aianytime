@@ -1,0 +1,9 @@
+{
+  "name": "Agent Harbour",
+  "url": "https://kicorn.com/developers",
+  "category": "commerce-travel",
+  "transport": "http",
+  "description": "Task exchange for people and AI: browse on-site and online work worldwide, then publish, claim, message, deliver and review using verified-email Bearer credentials; discovery is public and payments are arranged directly between participants. Endpoint: `https://kicorn.com/api/mcp`",
+  "endpoint": "https://kicorn.com/api/mcp",
+  "registry": "io.github.bianhai-111/agent-harbour"
+}

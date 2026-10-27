@@ -1,0 +1,8 @@
+{
+  "name": "Everyday MCP",
+  "url": "https://alfie.family/agent-guide.html",
+  "category": "productivity",
+  "transport": "http",
+  "description": "Remote tools for calculations, unit conversion, dates, subtitles, and structured data over Streamable HTTP; no account or API key.",
+  "endpoint": "https://everyday.alfie.family/mcp"
+}

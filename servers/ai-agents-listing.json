@@ -1,0 +1,8 @@
+{
+  "name": "AI Agents Listing",
+  "url": "https://github.com/nyyhao/aiagentslisting-mcp",
+  "category": "search",
+  "transport": "http",
+  "description": "Search, browse and compare a directory of AI agents, MCP servers and agent skills; find alternatives and see what is trending. The eight read tools need no key; submitting a listing or review needs OAuth. Endpoint: `https://aiagentslisting.com/api/mcp`",
+  "endpoint": "https://aiagentslisting.com/api/mcp"
+}
